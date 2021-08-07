@@ -4,7 +4,7 @@ title: Shengye Wan
 tagline:               Coder • PhD • Pokemon Trainer
 logo: /assets/img/avator.jpeg
 
-remote_theme: hydecorp/hydejack@v9.1.4
+remote_theme: alshedivat/al-folio
 plugins:
   - jekyll-include-cache
   - jekyll-avatar
