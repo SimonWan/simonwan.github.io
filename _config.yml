@@ -1,0 +1,41 @@
+lang:                  en
+title: Shengye Wan
+# A shorter description for the sidebar.
+tagline:               Coder • PhD • Pokemon Trainer
+logo: /assets/img/avator.jpeg
+
+remote_theme: hydecorp/hydejack@v9.1.4
+plugins:
+  - jekyll-include-cache
+  - jekyll-avatar
+  - jekyll-paginate
+
+menu:
+  - title: Research
+    url:   /research
+
+author:
+  name: Shengye Wan
+  email: simonsywan@gmail.com
+  social:
+    #twitter: 
+    github: simonwan
+  about: |
+    Hi, I'm Simon / @simonwan, welcome!
+
+    And welcome again!
+
+# Sidebar image and theme color of the site.
+accent_color:          rgb(255,140,0)
+accent_image: '/assets/img/super_team.jpeg'
+theme_color:  rgb(25,55,71)
+
+collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+
+
