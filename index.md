@@ -7,7 +7,7 @@ cover:  true
 ---
 
 ## About
-Shengye Wan ([resume][resume]) is a coder of Facebook. 
+Shengye Wan ([resume][resume]) is a coder of Meta Platforms. 
 
 He received his Ph.D. ([dissertation][dissertation]) from [College of William & Mary][wm] in 2020, under the supervision of [Dr. Kun Sun][professor]. 
 
@@ -26,9 +26,9 @@ Before that, he received M.S. in Computer Science ([thesis][thesis]) from Colleg
 **Address:** 1 Hacker Way, Menlo Park, CA, 94025
 
 ## Experience
-* **Research Scientist**, Facebook, Inc. 
+* **Research Scientist**, Meta Platforms, Inc. 
   * Oct. 2020 - now: ~~Training his Charizard.~~
-* **Software Engineer Intern**, Product Security Team, Facebook, Inc.  
+* **Software Engineer Intern**, Product Security Team, Meta Platforms, Inc. (formerly Facebook, Inc.)  
   * July 2019 - Sept. 2019: Working on an Android WebView related project. 
 * **Security Research Intern**, Baidu USA LLC.
   * Jan. 2019 - July 2019: Developing the [open-source Rust SDK](https://github.com/mesalock-linux/rust-optee-trustzone-sdk) for ARM TrustZone architecture. 
