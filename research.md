@@ -2,7 +2,7 @@
 layout: list
 title:  Research
 description: >
-  Thank you for your interest in my research works, and I'm always happy to discuss them.
+  Thank you for your interest in my research works. I'm always happy to discuss them with you.
 ---
 
 ## Research Interest 
