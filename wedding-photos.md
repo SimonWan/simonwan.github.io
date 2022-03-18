@@ -6,113 +6,96 @@ description: >
 ---
 ## We Get Married at Cobb County Magistrate Court, Atlanta, GA!
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918959862434234369" class="center">![photo-01][opensea-photo-01]</a>
-  <br>
+  </br>
   Wedding Photo #01
-  <br>
-  <br>
+  <br></br>
   
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918960961945862145" class="center">![photo-02][opensea-photo-02]</a>
-  <br>
+  </br>
   Wedding Photo #02
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918962061457489921" class="center">![photo-03][opensea-photo-03]</a>
-  <br>
+  </br>
   Wedding Photo #03
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918963160969117697" class="center">![photo-04][opensea-photo-04]</a>
-  <br>
+  </br>
   Wedding Photo #04
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918964260480745473" class="center">![photo-05][opensea-photo-05]</a>
-  <br>
+  </br>
   Wedding Photo #05
-  <br>
-  <br>
+  <br></br>
   
-  ## And We Took More & More Photos!
+  
+## And We Took More & More Photos!
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918965359992373249" class="center">![photo-06][opensea-photo-06]</a>
-  <br>
+  </br>
   Wedding Photo #06
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918966459504001025" class="center">![photo-07][opensea-photo-07]</a>
-  <br>
+  </br>
   Wedding Photo #07
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918967559015628801" class="center">![photo-08][opensea-photo-08]</a>
-  <br>
+  </br>
   Wedding Photo #08
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918968658527256577" class="center">![photo-09][opensea-photo-09]</a>
-  <br>
+  </br>
   Wedding Photo #09
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918969758038884353" class="center">![photo-10][opensea-photo-10]</a>
-  <br>
+  </br>
   Wedding Photo #10
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918970857550512129" class="center">![photo-11][opensea-photo-11]</a>
-  <br>
+  </br>
   Wedding Photo #11
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918971957062139905" class="center">![photo-12][opensea-photo-12]</a>
-  <br>
+  </br>
   Wedding Photo #12
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918973056573767681" class="center">![photo-13][opensea-photo-13]</a>
-  <br>
+  </br>
   Wedding Photo #13
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918974156085395457" class="center">![photo-14][opensea-photo-14]</a>
-  <br>
+  </br>
   Wedding Photo #14
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918975255597023233" class="center">![photo-15][opensea-photo-15]</a>
-  <br>
+  </br>
   Wedding Photo #15
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918978554131906561" class="center">![photo-16][opensea-photo-16]</a>
-  <br>
+  </br>
   Wedding Photo #16
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918976355108651009" class="center">![photo-17][opensea-photo-17]</a>
-  <br>
+  </br>
   Wedding Photo #17
-  <br>
-  <br>
+  <br></br>
    
   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918977454620278785" class="center">![photo-18][opensea-photo-18]</a>
-  <br>
+  </br>
   Wedding Photo #18
-  <br>
-  <br>
+  <br></br>
   
   
 
