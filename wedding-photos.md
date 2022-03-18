@@ -2,7 +2,7 @@
 layout: list
 title:  Wedding Photos
 description: >
-  [Jing][jing-website] and I get married on 03/04/2022.
+  [Jing](https://jingtianis.github.io/) and I get married on 03/04/2022.
   Thanks for checking our wedding ceremony photos. 
   Hope we can share our happiness with you here.
 ---
@@ -11,7 +11,5 @@ description: >
   <br>
   Wedding Photo #01
 
-
-[jing-website]: https://jingtianis.github.io/
 
 [opensea-photo-01-01]: https://lh3.googleusercontent.com/YbunjTqbreCsBLY2yXx2y1LZ4yMd0-aNmej1lh0zsqPAQ86z47Na5Z0l0ik7Vt4acCMaE36kK8PtT-2xMsnDPo8DhBTL-uUqorE_Tks=w600
