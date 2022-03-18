@@ -7,7 +7,7 @@ description: >
   Hope we can share our happiness with you here.
 ---
 ## We Get Married at Cobb County Magistrate Court, Atlanta, GA!
-<a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918959862434234369">![Wedding Phto #01][insite-photo-01]</a>
+<a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918959862434234369" rel="Wedding Photo #01">![Wedding Phto #01][insite-photo-01]</a>
 
 
 [jing-website]: https://jingtianis.github.io/
