@@ -138,5 +138,5 @@ description: >
 
 * * *
 
-- [Jing](tian.info) and I get married on 03/04/2022.
+- [Jing](https://jingtianis.github.io/) and I get married on 03/04/2022.
 - Photos are taken by [Bonjour Bridal](https://www.bonjourbrides.com/).
