@@ -8,7 +8,9 @@ description: >
 ---
 ## We Get Married at Cobb County Magistrate Court, Atlanta, GA!
 <div style="text-align: center">
-  <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918959862434234369">![Wedding Photo 01][photo-01]</a>
+  <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/88641939190327598168641774879033314236018224802234594312473918959862434234369">
+    <img alt="Wedding Photo #01" src=[photo-01]>
+  </a>
   <br>
   Wedding Photo #01
 </div>
