@@ -2,7 +2,7 @@ lang:                  en
 title: Shengye Wan @simonwan.eth
 # A shorter description for the sidebar.
 tagline:               Coder • PhD • Pokemon Trainer
-logo: /assets/img/avator.jpeg
+logo: /assets/img/new_avator.jpg
 
 remote_theme: hydecorp/hydejack@v9.1.4
 plugins:
