@@ -39,7 +39,4 @@ Before that, he received M.S. in Computer Science ([thesis][thesis]) from Colleg
 ---
 *The template is powered by [Hydejack](https://hydejack.com/).*
 
-*Icon image is posted by [u/flickerstop](https://www.reddit.com/r/pokemon/comments/2twnos/modern_background_images_of_user_requests_batch_2/).*
-
-*I cannot identify the source of my super cool background image, sad.*
-
+*I cannot identify the source of my super cool background image :(*
