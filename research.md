@@ -10,6 +10,8 @@ Trusted Execution Environment on Multi-Core Devices
 
 ## Publication
 1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["Purple Llama CyberSecEval: A benchmark for evaluating the cybersecurity risks of large language models"][cyberseceval]. ArXiv, 2023. [[paper][cyberseceval-paper], [GitHub][purplellama-github]]
+2. J Wang, K Sun, L Lei, Y Wang, J Jing, **S. Wan**, Q Li. ["CacheIEE: Cache-assisted Isolated Execution Environment on ARM Multi-Core Platforms"][cacheiee]. IEEE Transactions on Dependable and Secure Computing, 2023.
+3. Y Xing, J Cao, K Sun, F Yan, **S. Wan**. ["The devil is in the detail: Generating system call whitelist for Linux seccomp"][devildetails]. Future Generation Computer Systems 135, 105-113, 2022.
 1. **S. Wan**, K. Sun, N. Zhang, and Y. Li. ["Remotely Controlling TrustZone Applications? A Study on Securely and Resiliently Receiving Remote Commands"][tznic]. In proceedings of ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2021. [[paper][tznic-paper], [slides][tznic-slides]]
 1. **S. Wan**, M. Sun, K. Sun, N. Zhang, and X. He. ["RusTEE: Developing Memory-Safe ARM TrustZone Applications"][rustee]. In proceedings of Annual Computer Security Applications Conference (ACSAC) 2020. [[paper][rustee-paper], [slides][rustee-slides], [GitHub][rustee-github]]
 2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. ["Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments"][citm]. In proceedings of ACM Conference on Computer and Communications Security (CCS) 2020. [[paper][citm-paper]]
@@ -18,6 +20,8 @@ Trusted Execution Environment on Multi-Core Devices
 5. **S. Wan**, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"][pathmarker-conference]. In Proceedings of IEEE ICC 2017. [[paper][pathmarker-conference-paper], [slides][pathmarker-slides]]
 
 [cyberseceval]: https://ai.meta.com/research/publications/purple-llama-cyberseceval-a-benchmark-for-evaluating-the-cybersecurity-risks-of-large-language-models/
+[cacheiee]: https://ieeexplore.ieee.org/abstract/document/10058110
+[devildetails]: https://www.sciencedirect.com/science/article/abs/pii/S0167739X2200139X
 [tznic]: https://dl.acm.org/doi/10.1145/3448300.3468501
 [rustee]: https://dl.acm.org/doi/abs/10.1145/3427228.3427262
 [citm]: https://dl.acm.org/doi/10.1145/3372297.3417886
@@ -47,4 +51,4 @@ Trusted Execution Environment on Multi-Core Devices
 
 * * *
 
-*Last updated: June, 2021*
+*Last updated: Dec., 2023*
