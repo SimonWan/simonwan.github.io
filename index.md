@@ -27,7 +27,10 @@ Before that, he received M.S. in Computer Science ([thesis][thesis]) from Colleg
 
 ## Experience
 * **Research Scientist**, Meta Platforms, Inc. 
-  * Oct. 2020 - now: ~~Training his Charizard.~~
+  * Oct. 2020 - now: ~~Training his Charizard.~~ Some public examples of my work:
+    * [LLM] [PurpleLlama Project][https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/]
+    * [Python] [Security Proposal PEP 675][https://peps.python.org/pep-0675/]
+    * [C] [Open-source Secure Wrapper GitHub Repo][https://github.com/facebookincubator/SafeC]
 * **Software Engineer Intern**, Product Security Team, Meta Platforms, Inc. (formerly Facebook, Inc.)  
   * July 2019 - Sept. 2019: Working on an Android WebView related project. 
 * **Security Research Intern**, Baidu USA LLC.
