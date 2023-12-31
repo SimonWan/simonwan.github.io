@@ -9,7 +9,7 @@ description: >
 Trusted Execution Environment on Multi-Core Devices
 
 ## Publication
-1. 1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["Purple Llama CyberSecEval: A benchmark for evaluating the cybersecurity risks of large language models"][cyberseceval]. ArXiv, 2023. [[paper][cyberseceval-paper], [GitHub][purplellama-github]]
+1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["Purple Llama CyberSecEval: A benchmark for evaluating the cybersecurity risks of large language models"][cyberseceval]. ArXiv, 2023. [[paper][cyberseceval-paper], [GitHub][purplellama-github]]
 1. **S. Wan**, K. Sun, N. Zhang, and Y. Li. ["Remotely Controlling TrustZone Applications? A Study on Securely and Resiliently Receiving Remote Commands"][tznic]. In proceedings of ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2021. [[paper][tznic-paper], [slides][tznic-slides]]
 1. **S. Wan**, M. Sun, K. Sun, N. Zhang, and X. He. ["RusTEE: Developing Memory-Safe ARM TrustZone Applications"][rustee]. In proceedings of Annual Computer Security Applications Conference (ACSAC) 2020. [[paper][rustee-paper], [slides][rustee-slides], [GitHub][rustee-github]]
 2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. ["Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments"][citm]. In proceedings of ACM Conference on Computer and Communications Security (CCS) 2020. [[paper][citm-paper]]
