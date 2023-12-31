@@ -28,7 +28,7 @@ Before that, he received M.S. in Computer Science ([thesis][thesis]) from Colleg
 ## Experience
 * **Research Scientist**, Meta Platforms, Inc. 
   * Oct. 2020 - now: ~~Training his Charizard.~~ Some public examples of my work:
-    * [LLM] [PurpleLlama CyberSecEval Project][cyberseceval]
+    * [LLM] [PurpleLlama Project][cyberseceval]
     * [Python] [Security Proposal PEP 675][pep675]
     * [C] [Open-source Secure Wrapper GitHub Repo][safec]
 * **Software Engineer Intern**, Product Security Team, Meta Platforms, Inc. (formerly Facebook, Inc.)  
