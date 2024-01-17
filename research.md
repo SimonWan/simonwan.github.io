@@ -38,7 +38,7 @@ Trusted Execution Environment on Multi-Core Devices
 [pathmarker-slides]: ./assets/slides/PathMarker.pdf
 
 ## Service
-* **Journal reviewer**: IEEE Internet Computing, ACM Digital Threats: Research and Practice, CCF Transactions on Networking.
+* **Journal reviewer**: IEEE Transactions on Information Forensics and Security, IEEE/ACM Transactions on Networking, IEEE Internet Computing, ACM Digital Threats: Research and Practice, CCF Transactions on Networking.
 * **Conference reviewer**: IEEE INFOCOM 2020, IEEE ICC 2019, IEEE CNS 2018/2016.
 * **Conference sub-reviewer**: ICICS 2020/2019/2018, ICDCS 2020/2019, Securecomm 2018/2017, SciSec 2018.
 
