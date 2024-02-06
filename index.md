@@ -2,18 +2,19 @@
 layout: about
 title:  Hi there! This is Shengye Wan.
 description: >
-  This page provides the simplest version of Shengye.
+  This page provides the minimalist version of Shengye.
 cover:  true
 ---
 
 ## About
-Shengye Wan ([resume][resume]) is a coder of Meta Platforms. 
+Shengye Wan ([resume][resume]) is a Research Scientist at ([Meta][meta]).
 
 He received his Ph.D. ([dissertation][dissertation]) from [College of William & Mary][wm] in 2020, under the supervision of [Dr. Kun Sun][professor]. 
 
 Before that, he received M.S. in Computer Science ([thesis][thesis]) from College of William & Mary in 2016 and B.Eng. in Software Engineering from [Huazhong University of Science and Technology][hust] in 2014.
 
 [resume]: ./assets/Resume_Shengye.pdf
+[meta]: https://about.meta.com/
 [dissertation]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=7077&context=etd
 [thesis]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1039&context=etd
 [professor]: http://csis.gmu.edu/ksun/
