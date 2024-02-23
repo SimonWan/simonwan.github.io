@@ -7,7 +7,7 @@ cover:  true
 ---
 
 ## About
-Shengye Wan ([resume][resume]) is a Research Scientist at ([Meta][meta]).
+Shengye Wan ([resume][resume]) is a Research Scientist at [Meta][meta].
 
 He received his Ph.D. ([dissertation][dissertation]) from [College of William & Mary][wm] in 2020, under the supervision of [Dr. Kun Sun][professor]. 
 
