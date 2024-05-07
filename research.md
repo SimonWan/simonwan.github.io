@@ -9,7 +9,9 @@ description: >
 Trusted Execution Environment on Multi-Core Devices
 
 ## Publication
-1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["Purple Llama CyberSecEval: A benchmark for evaluating the cybersecurity risks of large language models"][cyberseceval]. ArXiv, 2023. [[paper][cyberseceval-paper], [GitHub][purplellama-github]]
+1. **S. Wan**, J. Saxe, C. Gomes, S. Chennabasappa, A. Rath, K. Sun, X. Wang. "Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia". In proceedings of DSN 2024, Industry Track. [[arXiv][bridging-paper]]
+1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["CYBERSECEVAL 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models"][cyberseceval-2]. ArXiv, 2024. [[paper][cyberseceval-2-paper], [GitHub][purplellama-github]]
+1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models"][cyberseceval]. ArXiv, 2023. [[paper][cyberseceval-paper]]
 2. J Wang, K Sun, L Lei, Y Wang, J Jing, **S. Wan**, Q Li. ["CacheIEE: Cache-assisted Isolated Execution Environment on ARM Multi-Core Platforms"][cacheiee]. IEEE Transactions on Dependable and Secure Computing, 2023.
 3. Y Xing, J Cao, K Sun, F Yan, **S. Wan**. ["The devil is in the detail: Generating system call whitelist for Linux seccomp"][devildetails]. Future Generation Computer Systems 135, 105-113, 2022.
 1. **S. Wan**, K. Sun, N. Zhang, and Y. Li. ["Remotely Controlling TrustZone Applications? A Study on Securely and Resiliently Receiving Remote Commands"][tznic]. In proceedings of ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2021. [[slides][tznic-slides]]
@@ -19,6 +21,7 @@ Trusted Execution Environment on Multi-Core Devices
 4. **S. Wan**, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"][pathmarker-journal]. Cybersecurity, 2(1), 2019. 
 5. **S. Wan**, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"][pathmarker-conference]. In Proceedings of IEEE ICC 2017. [[slides][pathmarker-slides]]
 
+[cyberseceval-2]: https://ai.meta.com/research/publications/cyberseceval-2-a-wide-ranging-cybersecurity-evaluation-suite-for-large-language-models/
 [cyberseceval]: https://ai.meta.com/research/publications/purple-llama-cyberseceval-a-benchmark-for-evaluating-the-cybersecurity-risks-of-large-language-models/
 [cacheiee]: https://ieeexplore.ieee.org/abstract/document/10058110
 [devildetails]: https://www.sciencedirect.com/science/article/abs/pii/S0167739X2200139X
@@ -29,7 +32,9 @@ Trusted Execution Environment on Multi-Core Devices
 [pathmarker-journal]: https://cybersecurity.springeropen.com/articles/10.1186/s42400-019-0023-1
 [pathmarker-conference]: https://ieeexplore.ieee.org/document/7996685
 
-[cyberseceval-paper]: https://scontent.fagc1-1.fna.fbcdn.net/v/t39.2365-6/10000000_1118625475774351_8659185461585946233_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=W7ns1TgznJMAX9Q5Rvk&_nc_ht=scontent.fagc1-1.fna&oh=00_AfBJ65P7-v6E7xZBftDMeycQQ0U-HcHHwOIhnn2pfhPa3A&oe=6594E587
+[bridging-paper]: https://arxiv.org/pdf/2405.02435
+[cyberseceval-2-paper]: https://arxiv.org/html/2404.13161v1
+[cyberseceval-paper]: https://arxiv.org/pdf/2312.04724
 [purplellama-github]: https://github.com/facebookresearch/PurpleLlama/tree/main/CybersecurityBenchmarks
 [rustee-github]: https://github.com/apache/incubator-teaclave-trustzone-sdk
 [tznic-slides]: ./assets/slides/TZNIC.pdf
