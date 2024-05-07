@@ -49,4 +49,4 @@ Trusted Execution Environment on Multi-Core Devices
 
 * * *
 
-*Last updated: Dec., 2023*
+*Last updated: May, 2024*
