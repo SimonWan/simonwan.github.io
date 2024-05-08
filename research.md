@@ -9,7 +9,7 @@ description: >
 Trusted Execution Environment on Multi-Core Devices
 
 ## Publication
-1. **S. Wan**, J. Saxe, C. Gomes, S. Chennabasappa, A. Rath, K. Sun, X. Wang. "Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia". In proceedings of DSN 2024, Industry Track. [[arXiv][bridging-paper]]
+1. **S. Wan**, J. Saxe, C. Gomes, S. Chennabasappa, A. Rath, K. Sun, X. Wang. "Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia". In proceedings of IEEE/IFIP DSN 2024, Industry Track. [[arXiv][bridging-paper]]
 1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["CYBERSECEVAL 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models"][cyberseceval-2]. ArXiv, 2024. [[paper][cyberseceval-2-paper], [GitHub][purplellama-github]]
 1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models"][cyberseceval]. ArXiv, 2023. [[paper][cyberseceval-paper]]
 2. J. Wang, K. Sun, L. Lei, Y. Wang, J. Jing, **S. Wan**, Q Li. ["CacheIEE: Cache-assisted Isolated Execution Environment on ARM Multi-Core Platforms"][cacheiee]. IEEE Transactions on Dependable and Secure Computing, 2023.
@@ -17,7 +17,7 @@ Trusted Execution Environment on Multi-Core Devices
 1. **S. Wan**, K. Sun, N. Zhang, and Y. Li. ["Remotely Controlling TrustZone Applications? A Study on Securely and Resiliently Receiving Remote Commands"][tznic]. In proceedings of ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2021. [[slides][tznic-slides]]
 1. **S. Wan**, M. Sun, K. Sun, N. Zhang, and X. He. ["RusTEE: Developing Memory-Safe ARM TrustZone Applications"][rustee]. In proceedings of Annual Computer Security Applications Conference (ACSAC) 2020. [[slides][rustee-slides], [GitHub][rustee-github]]
 2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. ["Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments"][citm]. In proceedings of ACM Conference on Computer and Communications Security (CCS) 2020.
-3. **S. Wan**, J. Sun, N. Zhang, K. Sun, and Q. Li. ["SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors"][satin]. In proceedings of IEEE DSN 2019. Received DSN 2019 Student Travel Award. [[slides][satin-slides]]
+3. **S. Wan**, J. Sun, N. Zhang, K. Sun, and Q. Li. ["SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors"][satin]. In proceedings of IEEE/IFIP DSN 2019. Received DSN 2019 Student Travel Award. [[slides][satin-slides]]
 4. **S. Wan**, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"][pathmarker-journal]. Cybersecurity, 2(1), 2019. 
 5. **S. Wan**, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"][pathmarker-conference]. In Proceedings of IEEE ICC 2017. [[slides][pathmarker-slides]]
 
