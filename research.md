@@ -10,8 +10,8 @@ Trusted Execution Environment on Multi-Core Devices
 
 ## Publication
 1. **S. Wan**, J. Saxe, C. Gomes, S. Chennabasappa, A. Rath, K. Sun, X. Wang. "Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia". In proceedings of IEEE/IFIP DSN 2024, Industry Track. [[arXiv][bridging-paper]]
-1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["CYBERSECEVAL 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models"][cyberseceval-2]. ArXiv, 2024. [[paper][cyberseceval-2-paper], [GitHub][purplellama-github]]
-1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models"][cyberseceval]. ArXiv, 2023. [[paper][cyberseceval-paper]]
+1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["CYBERSECEVAL 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models"][cyberseceval-2]. arXiv, 2024. [[paper][cyberseceval-2-paper], [GitHub][purplellama-github]]
+1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models"][cyberseceval]. arXiv, 2023. [[paper][cyberseceval-paper]]
 2. J. Wang, K. Sun, L. Lei, Y. Wang, J. Jing, **S. Wan**, Q Li. ["CacheIEE: Cache-assisted Isolated Execution Environment on ARM Multi-Core Platforms"][cacheiee]. IEEE Transactions on Dependable and Secure Computing, 2023.
 3. Y. Xing, J. Cao, K. Sun, F. Yan, **S. Wan**. ["The devil is in the detail: Generating system call whitelist for Linux seccomp"][devildetails]. Future Generation Computer Systems 135, 105-113, 2022.
 1. **S. Wan**, K. Sun, N. Zhang, and Y. Li. ["Remotely Controlling TrustZone Applications? A Study on Securely and Resiliently Receiving Remote Commands"][tznic]. In proceedings of ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2021. [[slides][tznic-slides]]
