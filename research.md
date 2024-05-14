@@ -6,7 +6,9 @@ description: >
 ---
 
 ## Research Interest 
-Trusted Execution Environment on Multi-Core Devices
+1. Cybersecurity risks of Large Language Models (LLMs)
+2. Opportunities of adopting LLMs in security
+3. Trusted Execution Environments on multi-core devices
 
 ## Publication
 1. **S. Wan**, J. Saxe, C. Gomes, S. Chennabasappa, A. Rath, K. Sun, X. Wang. "Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia". In proceedings of IEEE/IFIP DSN 2024, Industry Track. [[arXiv][bridging-paper]]
