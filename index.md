@@ -28,7 +28,8 @@ Before that, he received M.S. in Computer Science ([thesis][thesis]) from Colleg
 ## Experience
 * **Research Scientist**, Meta Platforms, Inc. 
   * Oct. 2020 - now: ~~Training his Charizard.~~ Some public examples of my work:
-    * [LLM] [PurpleLlama Project][cyberseceval]
+    * [LLM] TL of [PurpleLlama | CyberSecEval][cyberseceval]
+      * [PurpleLlama introduction][purplellama]
     * [Python] [Security Proposal PEP 675][pep675]
     * [C] [Open-source Secure Wrapper GitHub Repo][safec]
 * **Software Engineer Intern**, Product Security Team, Meta Platforms, Inc. (formerly Facebook, Inc.)  
@@ -36,7 +37,8 @@ Before that, he received M.S. in Computer Science ([thesis][thesis]) from Colleg
 * **Security Research Intern**, Baidu USA LLC.
   * Jan. 2019 - July 2019: Developing the [open-source Rust SDK](https://github.com/mesalock-linux/rust-optee-trustzone-sdk) for ARM TrustZone architecture. 
 
-[cyberseceval]: https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/
+[cyberseceval]: https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks/
+[purplellama]: https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/
 [pep675]: https://peps.python.org/pep-0675/
 [safec]: https://github.com/facebookincubator/SafeC
 
