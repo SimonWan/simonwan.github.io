@@ -11,8 +11,10 @@ description: >
 3. Trusted Execution Environments on multi-core devices
 
 ## Publication
-1. **S. Wan**, J. Saxe, C. Gomes, S. Chennabasappa, A. Rath, K. Sun, X. Wang. "Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia". In proceedings of IEEE/IFIP DSN 2024, Industry Track. [[arXiv][bridging-paper]]
-1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["CYBERSECEVAL 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models"][cyberseceval-2]. arXiv, 2024. [[paper][cyberseceval-2-paper], [GitHub][purplellama-github]]
+1.  **S. Wan**, C. Nikolaidis, D. Song, D. Molnar, J. Crnkovich, J. Grace, M. Bhatt, S. Chennabasappa, S. Whitman, S. Ding, V. Ionescu, Y. Li, J. Saxe. ["CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models"][cyberseceval-3]. arXiv, 2024. [[paper][cyberseceval-3-paper], [GitHub][purplellama-github]]
+2.  Llama Team, AI @ Meta (**S. Wan** as one of core contributors). ["The Llama 3 Herd of Models"][llama-3]. arXiv, 2024. [[paper][llama-3-paper]]
+3.  **S. Wan**, J. Saxe, C. Gomes, S. Chennabasappa, A. Rath, K. Sun, X. Wang. "Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia". In proceedings of IEEE/IFIP DSN 2024, Industry Track. [[arXiv][bridging-paper]]
+1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["CYBERSECEVAL 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models"][cyberseceval-2]. arXiv, 2024. [[paper][cyberseceval-2-paper]]
 1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models"][cyberseceval]. arXiv, 2023. [[paper][cyberseceval-paper]]
 2. J. Wang, K. Sun, L. Lei, Y. Wang, J. Jing, **S. Wan**, Q Li. ["CacheIEE: Cache-assisted Isolated Execution Environment on ARM Multi-Core Platforms"][cacheiee]. IEEE Transactions on Dependable and Secure Computing, 2023.
 3. Y. Xing, J. Cao, K. Sun, F. Yan, **S. Wan**. ["The devil is in the detail: Generating system call whitelist for Linux seccomp"][devildetails]. Future Generation Computer Systems 135, 105-113, 2022.
@@ -23,6 +25,8 @@ description: >
 4. **S. Wan**, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"][pathmarker-journal]. Cybersecurity, 2(1), 2019. 
 5. **S. Wan**, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"][pathmarker-conference]. In Proceedings of IEEE ICC 2017. [[slides][pathmarker-slides]]
 
+[cyberseceval-3]: https://ai.meta.com/research/publications/cyberseceval-3-advancing-the-evaluation-of-cybersecurity-risks-and-capabilities-in-large-language-models/
+[llama-3]: https://ai.meta.com/research/publications/the-llama-3-herd-of-models/
 [cyberseceval-2]: https://ai.meta.com/research/publications/cyberseceval-2-a-wide-ranging-cybersecurity-evaluation-suite-for-large-language-models/
 [cyberseceval]: https://ai.meta.com/research/publications/purple-llama-cyberseceval-a-benchmark-for-evaluating-the-cybersecurity-risks-of-large-language-models/
 [cacheiee]: https://ieeexplore.ieee.org/abstract/document/10058110
@@ -35,6 +39,8 @@ description: >
 [pathmarker-conference]: https://ieeexplore.ieee.org/document/7996685
 
 [bridging-paper]: https://arxiv.org/pdf/2405.02435
+[cyberseceval-3-paper]: https://arxiv.org/abs/2408.01605
+[llama-3-paper]: https://arxiv.org/abs/2407.21783
 [cyberseceval-2-paper]: https://arxiv.org/html/2404.13161v1
 [cyberseceval-paper]: https://arxiv.org/pdf/2312.04724
 [purplellama-github]: https://github.com/facebookresearch/PurpleLlama/tree/main/CybersecurityBenchmarks
@@ -51,4 +57,4 @@ description: >
 
 * * *
 
-*Last updated: May, 2024*
+*Last updated: August, 2024*
