@@ -13,7 +13,7 @@ description: >
 ## Publication
 1.  **S. Wan**, C. Nikolaidis, D. Song, D. Molnar, J. Crnkovich, J. Grace, M. Bhatt, S. Chennabasappa, S. Whitman, S. Ding, V. Ionescu, Y. Li, J. Saxe. ["CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models"][cyberseceval-3]. arXiv, 2024. [[paper][cyberseceval-3-paper], [GitHub][purplellama-github]]
 2.  Llama Team, AI @ Meta (**S. Wan** as one of core contributors). ["The Llama 3 Herd of Models"][llama-3]. arXiv, 2024. [[paper][llama-3-paper]]
-3.  **S. Wan**, J. Saxe, C. Gomes, S. Chennabasappa, A. Rath, K. Sun, X. Wang. "Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia". In proceedings of IEEE/IFIP DSN 2024, Industry Track. [[arXiv][bridging-paper]]
+3.  **S. Wan**, J. Saxe, C. Gomes, S. Chennabasappa, A. Rath, K. Sun, X. Wang. "Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia". In proceedings of IEEE/IFIP DSN 2024, Industry Track. [[paper][bridging-paper]]
 1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["CYBERSECEVAL 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models"][cyberseceval-2]. arXiv, 2024. [[paper][cyberseceval-2-paper]]
 1. Meta GenAI Cybersec Team (**S. Wan** as one of co-equal primary authors). ["Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models"][cyberseceval]. arXiv, 2023. [[paper][cyberseceval-paper]]
 2. J. Wang, K. Sun, L. Lei, Y. Wang, J. Jing, **S. Wan**, Q Li. ["CacheIEE: Cache-assisted Isolated Execution Environment on ARM Multi-Core Platforms"][cacheiee]. IEEE Transactions on Dependable and Secure Computing, 2023.
@@ -38,11 +38,11 @@ description: >
 [pathmarker-journal]: https://cybersecurity.springeropen.com/articles/10.1186/s42400-019-0023-1
 [pathmarker-conference]: https://ieeexplore.ieee.org/document/7996685
 
-[bridging-paper]: https://arxiv.org/pdf/2405.02435
 [cyberseceval-3-paper]: https://arxiv.org/abs/2408.01605
 [llama-3-paper]: https://arxiv.org/abs/2407.21783
-[cyberseceval-2-paper]: https://arxiv.org/html/2404.13161v1
-[cyberseceval-paper]: https://arxiv.org/pdf/2312.04724
+[bridging-paper]: https://arxiv.org/abs/2405.02435
+[cyberseceval-2-paper]: https://arxiv.org/abs/2404.13161
+[cyberseceval-paper]: https://arxiv.org/abs/2312.04724
 [purplellama-github]: https://github.com/facebookresearch/PurpleLlama/tree/main/CybersecurityBenchmarks
 [rustee-github]: https://github.com/apache/incubator-teaclave-trustzone-sdk
 [tznic-slides]: ./assets/slides/TZNIC.pdf
