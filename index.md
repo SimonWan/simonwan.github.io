@@ -22,6 +22,7 @@ Before that, he received M.S. in Computer Science ([thesis][thesis]) from Colleg
 
 ## Contact
 **Work Email:** simonwan [at] meta [dot] com
+
 **Personal Email:** simonsywan [gmail]
 
 **Address:** 1 Hacker Way, Menlo Park, CA, 94025
